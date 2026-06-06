@@ -44,3 +44,11 @@ Libroteka
         ─ components
         ─ pages
         ─ store
+## Instruksione
+Perdoruesi duhet te krijoje vet .env me: 
+NODE_ENV=development
+PORT=5000
+JWT_SECRET=your_secret
+MONGO_URI=your_mongodb_connection_string
+
+ 
